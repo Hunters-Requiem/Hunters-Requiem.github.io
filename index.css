@@ -221,6 +221,7 @@
 }
 .home-hero-button1 {
   color: var(--dl-color-gray-white);
+  text-decoration: none;
   background-color: #99B3A7;
 }
 .home-banner {
