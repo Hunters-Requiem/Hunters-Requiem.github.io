@@ -24,6 +24,24 @@
 }
 
 
+.feature-card-root-class-name2 {
+  align-self: center;
+}
+.feature-card-root-class-name3 {
+  align-self: center;
+}
+.feature-card-root-class-name4 {
+  align-self: center;
+}
+.feature-card-root-class-name5 {
+  align-self: center;
+}
+.feature-card-root-class-name6 {
+  align-self: center;
+}
+.feature-card-root-class-name7 {
+  align-self: center;
+}
 @media(max-width: 767px) {
   .feature-card-feature-card {
     flex-direction: row;
